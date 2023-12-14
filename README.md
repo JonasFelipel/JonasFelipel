@@ -7,7 +7,7 @@
 📚 No meu percurso de aprendizado, adquiri habilidades em diversas ferramentas e linguagens, incluindo:
 
 💻 Excel,Power BI, SQL, PostgreSQL
-🌐 HTML, CSS, Java, React
+🌐 HTML, CSS, JavaScript, React
 🚀 Busco constantemente aprimorar meus conhecimentos na área de TI, mergulhando em novas tecnologias e metodologias para contribuir e desenvolver soluções inovadoras.
 
 🔍 Estou sempre em busca de desafios e oportunidades para aplicar meus conhecimentos e colaborar em projetos que impulsionem a inovação e a tecnologia.
